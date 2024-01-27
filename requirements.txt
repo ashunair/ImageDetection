@@ -1,0 +1,8 @@
+tensorflow~=2.15.0
+keras~=2.15.0
+numpy~=1.26.3
+opencv-python~=4.9.0.80
+click~=8.1.7
+six~=1.16.0
+setuptools~=69.0.3
+gTTS~=2.5.0
